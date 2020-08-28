@@ -1,6 +1,6 @@
-### Hi there 👋
-Welcome to my github page!
+### Hello there 👋
+Welcome to my github page
 
-- 🔭 Currently working from home due to the pandemic
-- 🌱 Studying C++ programming
-- ⚡ Fun fact: I love learn new things about programming
+- 🚪 I'm currently working from home due to the pandemic.
+- 💻 Studying programming specifically C++
+- 🔍 I really love studying new things about programming.
