@@ -1,5 +1,5 @@
-### Hello there 👋
-Welcome to my github page
+### Hello there i'm HeroFluxx 👋
+And welcome to my github page!
 
 - 🚪 I'm currently working from home due to the pandemic.
 - 💻 Studying programming specifically C++
