@@ -5,3 +5,4 @@ And welcome to my github page!
 - 💻 Studying programming specifically C++
 - 🔍 Really love studying new things about programming and get the knowledge needed to make stuff.
 - 🎮 I love playing FPS games like call of duty mobile sometimes i also playing minecraft.
+- ⌨ Mostly interested in C++ and other programming languages.
