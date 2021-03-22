@@ -1,8 +1,8 @@
-### Hello there i'm HeroFluxx 👋
+### Hey there my name is HeroFluxx 👋
 And welcome to my github page!
 
-- 🚪 I'm currently working from home due to the pandemic.
-- 💻 Studying programming specifically C++
-- 🔍 Really love studying new things about programming and get the knowledge needed to make stuff.
-- 🎮 I love playing FPS games like call of duty mobile sometimes i also playing minecraft.
-- ⌨ Mostly interested in C++ and other programming languages.
+- :house: Currently working from home due to the current pandemic.
+- :desktop_computer: Right now i'm studying programming specifically C++
+- :books: I absolutely love studying new things about programming and get the knowledge needed to make whatever is needed.
+- :video_game: Love playing FPS games like COD mobile sometimes i'm playing minecraft and also genshin impact.
+- :keyboard: I'm mostly interested in C++ and also some other programming languages.
