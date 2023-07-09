@@ -1,7 +1,7 @@
-### Hello there my name is HeroFluxx 👋
-And welcome to my github page!
+### Hi there my name is HeroFluxx 👋
+welcome to my github page!
 
-- :computer_mouse: C++ is my main language of choice i will eventually try other languages.
-- :desktop_computer: Right now i'm studying everything about programming specifically for C++
-- :books: I always love studying new things about programming and get the knowledge needed to make whatever i need.
-- :video_game: At my free time i'm playing first person shooter games like call of duty mobile modern warfare from 2019 and sometimes minecraft.
+- :computer_mouse: C++ is my main language of choice eventually I wanna try learning other languages.
+- :desktop_computer: Right now I'm learning everything about programming.
+- :books: I'm always love studying new things and get the knowledge that's needed to make whatever I want.
+- :video_game: At my free time I'm playing FPS games sometimes I play minecraft.
